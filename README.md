@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on my person LMS website<br><br>🌱 I’m currently learning Full Stack SAAS Development<br><br>💬 Ask me about ReactJS, MERN, PERN, JavaScript, TypeScript<br><br>📫 How to reach me fahimnahi121@gmail.com
+🔭 I’m currently working on my personal LMS website<br><br>🌱 I’m currently learning Full Stack SAAS Development<br><br>💬 Ask me about ReactJS, MERN, PERN, JavaScript, TypeScript<br><br>📫 How to reach me fahimnahi121@gmail.com
 
 
 ## 🌐 Socials:
